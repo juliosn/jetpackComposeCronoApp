@@ -6,23 +6,23 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/juliosn/jetpackComposeCronoApp?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/juliosn/jetpackComposeCronoApp?style=for-the-badge)
 
-<h2>Tela Inicial</h2>
+<h2>Main Screen</h2>
 <img src="https://github.com/juliosn/jetpackComposeCronoApp/assets/99426563/a07d6ca4-aa14-499d-ab2e-da0bab9e0ced">
 
-<h2>Adicionar</h2>
+<h2>Add</h2>
 <img src="https://github.com/juliosn/jetpackComposeCronoApp/assets/99426563/4a8f7ab7-fc64-47de-9a13-49215cadbc6b">
 
-<h2>Salvar</h2>
+<h2>Save</h2>
 <img src="https://github.com/juliosn/jetpackComposeCronoApp/assets/99426563/da7d22ee-92a9-4e62-abcb-619edef10db1">
 
-<h2>Editar</h2>
+<h2>Edit</h2>
 <img src="https://github.com/juliosn/jetpackComposeCronoApp/assets/99426563/4940ad4e-8184-4f8a-bf35-3fc01b7eb3c7">
 
-> Projeto acadêmico realizdo em 2023 que consiste na criação de um aplicativo de cronômetro.
+> Academic project carried out in 2023 that consists of the creation of a chronometer application.
 
 
-### Ajustes e melhorias
+### Adjustments and Improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguinte tarefa:
+The project is still under development and the next updates will focus on the following tasks:
 
-- [ ] Melhorar interface do menu
+- [ ] Improve the interface
